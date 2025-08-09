@@ -2,7 +2,8 @@
 
 科学上网科普：https://github.com/build-ad/Free-Nodes/wiki
 
-分享好用的免费梯子，免费VPN节点，仅供学习交流
+
+汇集网络上免费好用的网络代理，免费梯子，免费VPN节点，仅供学习交流
 
 ## 订阅
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
