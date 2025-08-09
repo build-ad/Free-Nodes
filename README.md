@@ -1,6 +1,8 @@
-更新：北京时间 2025年8月9日21:07:44
+更新：北京时间 2025年8月9日21:12:24
 
-分享好用的VPN节点，仅供学习交流
+科学上网科普：https://github.com/build-ad/Free-Nodes/wiki
+
+分享好用的免费梯子，免费VPN节点，仅供学习交流
 
 ## 订阅
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
