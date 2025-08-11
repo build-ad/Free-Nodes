@@ -9,7 +9,7 @@
 
 ### 订阅1
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
-https://igdux.top/RXpmMKJF87b8da5FMmHtaTk2
+
 
 ### 订阅2
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
