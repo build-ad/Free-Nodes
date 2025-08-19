@@ -1,4 +1,4 @@
-更新：北京时间 2025年8月10日19:26:46
+
 
 科学上网科普：https://github.com/build-ad/Free-Nodes/wiki
 
@@ -6,6 +6,11 @@
 汇集网络上免费好用的网络代理，免费梯子，免费VPN节点，仅供学习交流
 
 ## 免费订阅节点
+
+2025年8月19日
+
+hysteria2://dongtaiwang.com@62.210.113.151:33563?sni=apple.com&alpn=h3&insecure=1#Hysteria2%E8%8A%82%E7%82%B9
+
 
 ### 订阅1
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
