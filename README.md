@@ -9,7 +9,10 @@
 
 2025年8月19日
 
+```
 hysteria2://dongtaiwang.com@62.210.113.151:33563?sni=apple.com&alpn=h3&insecure=1#Hysteria2%E8%8A%82%E7%82%B9
+```
+
 
 
 ### 订阅1
