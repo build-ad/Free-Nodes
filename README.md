@@ -7,16 +7,21 @@
 
 ## 免费订阅节点
 
-2025年8月19日
+#### 2025年8月20日
+
+clash订阅：
+
+```
+https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
+```
+
+#### 2025年8月19日
+
+通用base64/v2ray订阅：
 
 ```
 hysteria2://dongtaiwang.com@62.210.113.151:33563?sni=apple.com&alpn=h3&insecure=1#Hysteria2%E8%8A%82%E7%82%B9
 ```
-
-
-
-### 订阅1
-https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 
 
 ### 订阅2
