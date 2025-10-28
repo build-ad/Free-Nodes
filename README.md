@@ -9,7 +9,6 @@
 ## 试用机场
 ### 大牛云 试用机场
 
-#### 2025年10月27日
 
 注册地址：
 https://xn--9kqw1xbnu.shop/#/register?code=Od71x2OK
@@ -20,6 +19,19 @@ https://xn--9kqw1xbnu.shop/#/register?code=Od71x2OK
 节点位置：台湾、香港
 
 协议类型：Hysteria
+
+### GLaDOS
+
+注册地址：
+https://glados.space/landing/2RTA6-B9221-FEP1U-POWLR
+
+
+### 红薯云
+
+新注册免费试用！1天5GB
+
+注册地址：
+https://www.hongshu.one/#/register?code=4msPKq5W
 
 
 ## 免费订阅节点
