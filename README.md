@@ -14,7 +14,7 @@
 https://xn--9kqw1xbnu.shop/#/register?code=Od71x2OK
 
 
-使用优惠券 大牛云 0元购买“小小”500GB️/30 天套餐。
+“小小”500GB️/30 天套餐￥2.9。
 
 节点位置：台湾、香港
 
