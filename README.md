@@ -14,7 +14,7 @@
 https://xn--9kqw1xbnu.shop/#/register?code=Od71x2OK
 
 
-“小小”500GB️/30 天套餐￥2.9。
+起步价：500GB️/30 天套餐￥2.9。
 
 节点位置：台湾、香港
 
