@@ -7,23 +7,6 @@
 
 
 ## 机场推荐
-### 大牛云
-
-
-注册地址：
-https://xn--9kqw1xbnu.shop/#/register?code=Od71x2OK
-
-
-起步价：500GB️/30 天套餐￥2.9。
-
-节点位置：台湾、香港
-
-协议类型：Hysteria
-
-### GLaDOS
-
-注册地址：
-https://glados.space/landing/2RTA6-B9221-FEP1U-POWLR
 
 
 ### 红薯云
