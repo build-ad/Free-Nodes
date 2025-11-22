@@ -8,6 +8,11 @@
 
 ## 机场推荐
 
+### 免费机场
+
+注册即可免费使用 200G/月
+
+  注册地址：https://xn--94q57lcvpw50b.cc/#/register?code=brY04UnY
 
 ### 红薯云
 
@@ -45,8 +50,6 @@ https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.me
 - Clash 订阅链接：https://git.io/emzclash
 - V2Ray 订阅链接：https://git.io/emzv2ray
 
-### 订阅4
-https://igdux.top/RXpmMKJF87b8da5FMmHtaTk2
 
 
 ## 搬瓦工机场
