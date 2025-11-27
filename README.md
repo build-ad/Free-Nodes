@@ -16,7 +16,7 @@
 
 ### 红薯云
 
-新注册免费试用！1天5GB
+新注册免费试用 5GB/天
 
 注册地址：
 https://www.hongshu.one/#/register?code=4msPKq5W
