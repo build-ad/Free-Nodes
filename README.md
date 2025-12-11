@@ -10,7 +10,7 @@
 
 ### 免费机场
 
-注册即可免费使用 200G/月
+注册即可免费使用 200G/月，使用支持Anytls协议的客户端
 
   注册地址：https://xn--94q57lcvpw50b.cc/#/register?code=brY04UnY
 
@@ -46,9 +46,6 @@ https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.tx
 
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml
 
-### 订阅3
-- Clash 订阅链接：https://git.io/emzclash
-- V2Ray 订阅链接：https://git.io/emzv2ray
 
 
 
