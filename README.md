@@ -14,6 +14,7 @@
 
   注册地址：https://xn--94q57lcvpw50b.cc/#/register?code=brY04UnY
 
+
 ### 红薯云
 
 新注册免费试用 5GB/天
@@ -23,6 +24,12 @@ https://www.hongshu.one/#/register?code=4msPKq5W
 
 
 ## 免费订阅节点
+
+### 公益节点
+
+```
+https://misub-eld.pages.dev/EAyLzvCbnJRZEPrzEhrTdeoFRZeBcHvzAuTlviiMbRm/Boringdad123
+```
 
 #### 2025年8月20日
 
@@ -39,14 +46,6 @@ https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 ```
 hysteria2://dongtaiwang.com@62.210.113.151:33563?sni=apple.com&alpn=h3&insecure=1#Hysteria2%E8%8A%82%E7%82%B9
 ```
-
-
-### 订阅2
-https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
-
-https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml
-
-
 
 
 ## 搬瓦工机场
