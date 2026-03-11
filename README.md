@@ -43,12 +43,16 @@ https://www.hongshu.one/#/register?code=4msPKq5W
 
 ## 免费订阅节点
 
-免费节点，白嫖节点
+免费节点，白嫖节点，试用IP
+
+### socks5节点
+
+117.68.65.38|6582|gqtx10j1|gqtx10j1|2026-03-10|#安徽省-芜湖socks5节点
+
 
 ### 免费订阅
 
 http://xmf1.de5.net/nr057j
-
 
 
 ### 公益节点
