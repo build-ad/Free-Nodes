@@ -1,4 +1,4 @@
-
+TG频道https://t.me/shvpnayi
 
 科学上网科普：https://github.com/build-ad/Free-Nodes/wiki
 
@@ -11,6 +11,16 @@
 好用基础免费使用/试用
 
 更新：2026年1月10日
+
+
+### 宝可梦
+
+机场名称：宝可梦，每月 60G 流量，HK/TW家宽，
+3月份最新白嫖兑换码:耿鬼
+使用教程:点击购买入门精灵球
+兑换码是购买入门精灵球的优惠码
+   https://love.p6m6.com/#/register?code=124m5AHx
+   
 
 ### 免费机场
 
