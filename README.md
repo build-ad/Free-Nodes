@@ -25,12 +25,6 @@ TG频道: https://t.me/shvpnayi
 https://love.p6m6.com/#/register?code=124m5AHx
    
 
-### 免费机场
-
-注册即可免费使用 200G/月，使用支持Anytls协议的客户端
-
-  注册地址：https://xn--94q57lcvpw50b.cc/#/register?code=brY04UnY
-家宽节点：TW
 
 ### 红薯云
 
